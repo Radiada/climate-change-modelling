@@ -1,0 +1,8 @@
+# Run these in terminal or Git Bash
+cd path/to/climate-change-modeling
+git init
+git remote add origin https://github.com/YOUR_USERNAME/climate-change-modeling.git
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main
